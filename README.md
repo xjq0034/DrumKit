@@ -1,2 +1,0 @@
-# DrumKit
-Created with CodeSandbox
